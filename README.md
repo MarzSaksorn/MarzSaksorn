@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi! A Student here at Phichai School<br>My Name is Saksorn Ngandee<br>I live in Thailand, Currently 15 years old<br>My Work Experience:   2 years as PC Technician at ESC Building in Phichai School<br>                                         1 year as Graphics Designer at ESC Building in Phichai School
+Hi! A Student here at Phichai School
+
+My Name is Saksorn Ngandee
+
+I live in Thailand, Currently 15 years old
+
+My Work Experience:   2 years as PC Technician at ESC Building in Phichai School
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 year as Graphics Designer at ESC Building in Phichai School
 
 I fluently speaks 2 languages: English and Thai
 
