@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hi! A Student here at Phichai School
 
-My Name is Saksorn Ngandee
+**My Name is Saksorn Ngandee**
 
 I live in Thailand, Currently 15 years old
 
-My Work Experience:   
+**My Work Experience:**   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 years as PC Technician at ESC Building in Phichai School
 
