@@ -14,7 +14,7 @@ I fluently speaks 2 languages: English and Thai
 
 **My Skills**
 
-IT Admin, Linux server, Server management, Process Containerization, Sound engineer (Tune EQ), Front end Development, CI/CD Pipeline
+Soldering Electronics, Computer Troubleshooting and Fixing, IT Admin, Linux server, Server management, Process Containerization, Sound engineer (Setup Hall Speakers, Electrical stuff, Tune EQ), Front end Development, CI/CD Pipeline
 
 &nbsp;
 &nbsp;
