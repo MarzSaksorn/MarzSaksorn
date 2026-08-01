@@ -16,7 +16,8 @@ I fluently speaks 2 languages: English and Thai
 
 IT Admin, Linux server, Server management, Process Containerization, Sound engineer (Tune EQ), Front end Development, CI/CD Pipeline
 
-
+&nbsp;
+&nbsp;
 
 And Lastly      I have my passion of becoming **A Cloud Engineer**
 
