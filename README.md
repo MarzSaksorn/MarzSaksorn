@@ -3,7 +3,7 @@ Hi! A Student here at Phichai School
 
 **My Name is Saksorn Ngandee**
 
-I live in Thailand, Currently 15 years old
+I live in Thailand, Currently 16 years old
 I fluently speaks 2 languages: English and Thai
 
 **My Work Experience:**   
