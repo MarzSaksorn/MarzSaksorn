@@ -19,7 +19,7 @@ Soldering Electronics, Computer Troubleshooting and Fixing, IT Admin, Linux serv
 &nbsp;
 &nbsp;
 
-And Lastly      I have my passion of becoming **A Cloud Engineer**
+And Lastly      I have my dream of mastering in Electrical Engineering
 
 
 
